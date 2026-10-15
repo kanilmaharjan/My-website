@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-website/static/css/main.1acaf58c.css",
+    "main.js": "/My-website/static/js/main.15dab455.js",
+    "static/media/AboutK.JPG": "/My-website/static/media/AboutK.9802ed0e2530d99f510b.JPG",
+    "static/media/Profile Kanil 1.JPG": "/My-website/static/media/Profile Kanil 1.bd15f8986e7736e189ba.JPG",
+    "index.html": "/My-website/index.html",
+    "main.1acaf58c.css.map": "/My-website/static/css/main.1acaf58c.css.map",
+    "main.15dab455.js.map": "/My-website/static/js/main.15dab455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1acaf58c.css",
+    "static/js/main.15dab455.js"
+  ]
+}
